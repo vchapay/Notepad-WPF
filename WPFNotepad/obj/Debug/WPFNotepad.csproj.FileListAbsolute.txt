@@ -1,0 +1,16 @@
+D:\VSProjects\WPFNotepad\WPFNotepad\bin\Debug\WPFNotepad.exe.config
+D:\VSProjects\WPFNotepad\WPFNotepad\bin\Debug\WPFNotepad.exe
+D:\VSProjects\WPFNotepad\WPFNotepad\bin\Debug\WPFNotepad.pdb
+D:\VSProjects\WPFNotepad\WPFNotepad\obj\Debug\WPFNotepad.csproj.AssemblyReference.cache
+D:\VSProjects\WPFNotepad\WPFNotepad\obj\Debug\MainWindow.g.cs
+D:\VSProjects\WPFNotepad\WPFNotepad\obj\Debug\App.g.cs
+D:\VSProjects\WPFNotepad\WPFNotepad\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\VSProjects\WPFNotepad\WPFNotepad\obj\Debug\WPFNotepad_MarkupCompile.cache
+D:\VSProjects\WPFNotepad\WPFNotepad\obj\Debug\WPFNotepad_MarkupCompile.lref
+D:\VSProjects\WPFNotepad\WPFNotepad\obj\Debug\MainWindow.baml
+D:\VSProjects\WPFNotepad\WPFNotepad\obj\Debug\WPFNotepad.g.resources
+D:\VSProjects\WPFNotepad\WPFNotepad\obj\Debug\WPFNotepad.Properties.Resources.resources
+D:\VSProjects\WPFNotepad\WPFNotepad\obj\Debug\WPFNotepad.csproj.GenerateResource.cache
+D:\VSProjects\WPFNotepad\WPFNotepad\obj\Debug\WPFNotepad.csproj.CoreCompileInputs.cache
+D:\VSProjects\WPFNotepad\WPFNotepad\obj\Debug\WPFNotepad.exe
+D:\VSProjects\WPFNotepad\WPFNotepad\obj\Debug\WPFNotepad.pdb
